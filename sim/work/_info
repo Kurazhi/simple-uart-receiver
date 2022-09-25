@@ -10,74 +10,74 @@ z2
 cModel Technology
 dC:/Users/Takatora Kurashima/Documents/EEC180/final/problem3/sim
 vBRGen
-Z0 !s110 1664066676
+!s110 1664068086
 !i10b 1
 !s100 hV2J=]T7L?FNIA5NzfnGQ1
-Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
 IccnZIOzhMfZiXdAC;B8ZB3
-Z2 VDg1SIo80bB@j0V0VzS_@n1
-Z3 dC:/Development/Verilog/UARTReciever/sim
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Development/Verilog/UARTReciever/sim
 w1664063629
 8C:/Development/Verilog/UARTReciever/BaudRateGen.v
 FC:/Development/Verilog/UARTReciever/BaudRateGen.v
-!i122 70
+!i122 76
 L0 1 39
-Z4 OV;L;2020.1;71
+Z3 OV;L;2020.1;71
 r1
 !s85 0
 31
-Z5 !s108 1664066676.000000
+!s108 1664068086.000000
 !s107 C:/Development/Verilog/UARTReciever/BaudRateGen.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Development/Verilog/UARTReciever/BaudRateGen.v|
 !i113 1
-Z6 o-work work
-Z7 tCvgOpt 0
+Z4 o-work work
+Z5 tCvgOpt 0
 n@b@r@gen
 vtb_UARTRX
-R0
+!s110 1664073917
 !i10b 1
-!s100 5k=naSAKkQVoo4XJ>zk:H0
+!s100 F=1ek5[d@ff[ADz]BNSbb1
+R0
+IANMCLKgA0CEim:I:OaMFL0
 R1
-IZ[[flSnM21^Pz6?WhI9D^1
 R2
+w1664073913
+8C:/Development/Verilog/UARTReciever/tb_UARTRX.v
+FC:/Development/Verilog/UARTReciever/tb_UARTRX.v
+!i122 118
+L0 2 93
 R3
-w1664066673
-8C:/Development/Verilog/UARTReciever/top.v
-FC:/Development/Verilog/UARTReciever/top.v
-!i122 71
-L0 2 52
-R4
 r1
 !s85 0
 31
-R5
-!s107 C:/Development/Verilog/UARTReciever/top.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Development/Verilog/UARTReciever/top.v|
+!s108 1664073917.000000
+!s107 C:/Development/Verilog/UARTReciever/tb_UARTRX.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Development/Verilog/UARTReciever/tb_UARTRX.v|
 !i113 1
-R6
-R7
+R4
+R5
 ntb_@u@a@r@t@r@x
 vuartRX
-R0
+!s110 1664073916
 !i10b 1
-!s100 eOkG@oKS3jADEMdWWlVWj0
+!s100 1=P:@eM?HCzld034MmPZ72
+R0
+IG]WAMo<SDg1Z@M=YN^AIo0
 R1
-I]jPgFcXfcT66aidkY>kV91
 R2
-R3
-w1664066134
+w1664072856
 8C:/Development/Verilog/UARTReciever/UARTRec.v
 FC:/Development/Verilog/UARTReciever/UARTRec.v
-!i122 72
-L0 1 87
-R4
+!i122 117
+L0 1 93
+R3
 r1
 !s85 0
 31
-R5
+!s108 1664073916.000000
 !s107 C:/Development/Verilog/UARTReciever/UARTRec.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Development/Verilog/UARTReciever/UARTRec.v|
 !i113 1
-R6
-R7
+R4
+R5
 nuart@r@x
