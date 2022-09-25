@@ -1,0 +1,83 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Takatora Kurashima/Documents/EEC180/final/problem3/sim
+vBRGen
+Z0 !s110 1664066676
+!i10b 1
+!s100 hV2J=]T7L?FNIA5NzfnGQ1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IccnZIOzhMfZiXdAC;B8ZB3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Development/Verilog/UARTReciever/sim
+w1664063629
+8C:/Development/Verilog/UARTReciever/BaudRateGen.v
+FC:/Development/Verilog/UARTReciever/BaudRateGen.v
+!i122 70
+L0 1 39
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1664066676.000000
+!s107 C:/Development/Verilog/UARTReciever/BaudRateGen.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Development/Verilog/UARTReciever/BaudRateGen.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@b@r@gen
+vtb_UARTRX
+R0
+!i10b 1
+!s100 5k=naSAKkQVoo4XJ>zk:H0
+R1
+IZ[[flSnM21^Pz6?WhI9D^1
+R2
+R3
+w1664066673
+8C:/Development/Verilog/UARTReciever/top.v
+FC:/Development/Verilog/UARTReciever/top.v
+!i122 71
+L0 2 52
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Development/Verilog/UARTReciever/top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Development/Verilog/UARTReciever/top.v|
+!i113 1
+R6
+R7
+ntb_@u@a@r@t@r@x
+vuartRX
+R0
+!i10b 1
+!s100 eOkG@oKS3jADEMdWWlVWj0
+R1
+I]jPgFcXfcT66aidkY>kV91
+R2
+R3
+w1664066134
+8C:/Development/Verilog/UARTReciever/UARTRec.v
+FC:/Development/Verilog/UARTReciever/UARTRec.v
+!i122 72
+L0 1 87
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Development/Verilog/UARTReciever/UARTRec.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Development/Verilog/UARTReciever/UARTRec.v|
+!i113 1
+R6
+R7
+nuart@r@x

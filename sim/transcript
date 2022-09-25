@@ -1,0 +1,218 @@
+# Compile of BaudRateGen.v was successful.
+# Compile of top.v was successful.
+# Compile of UARTRec.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.tb_UARTRX
+# vsim -gui work.tb_UARTRX 
+# Start time: 17:02:58 on Sep 24,2022
+# Loading work.tb_UARTRX
+# Loading work.uartRX
+add wave -position insertpoint  \
+sim:/tb_UARTRX/tick
+add wave -position insertpoint  \
+sim:/tb_UARTRX/state
+add wave -position insertpoint  \
+sim:/tb_UARTRX/rx
+add wave -position insertpoint  \
+sim:/tb_UARTRX/reset
+add wave -position insertpoint  \
+sim:/tb_UARTRX/data
+add wave -position insertpoint  \
+sim:/tb_UARTRX/INPUT
+add wave -position insertpoint  \
+sim:/tb_UARTRX/done
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# ** Note: $stop    : C:/Development/Verilog/UARTReciever/top.v(46)
+#    Time: 352 ns  Iteration: 0  Instance: /tb_UARTRX
+# Break in Module tb_UARTRX at C:/Development/Verilog/UARTReciever/top.v line 46
+# Compile of BaudRateGen.v was successful.
+# Compile of top.v was successful.
+# Compile of UARTRec.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.tb_UARTRX
+# End time: 17:04:40 on Sep 24,2022, Elapsed time: 0:01:42
+# Errors: 0, Warnings: 2
+# vsim -gui work.tb_UARTRX 
+# Start time: 17:04:40 on Sep 24,2022
+# Loading work.tb_UARTRX
+# Loading work.uartRX
+run -all
+# ** Note: $stop    : C:/Development/Verilog/UARTReciever/top.v(46)
+#    Time: 352 ns  Iteration: 0  Instance: /tb_UARTRX
+# Break in Module tb_UARTRX at C:/Development/Verilog/UARTReciever/top.v line 46
+add wave -position insertpoint  \
+sim:/tb_UARTRX/tick
+add wave -position insertpoint  \
+sim:/tb_UARTRX/state
+add wave -position insertpoint  \
+sim:/tb_UARTRX/rx
+add wave -position insertpoint  \
+sim:/tb_UARTRX/reset
+add wave -position insertpoint  \
+sim:/tb_UARTRX/INPUT
+add wave -position insertpoint  \
+sim:/tb_UARTRX/done
+add wave -position insertpoint  \
+sim:/tb_UARTRX/data
+run -all
+# Break key hit
+# Break in Module tb_UARTRX at C:/Development/Verilog/UARTReciever/top.v line 27
+restart -f
+run -all
+# ** Note: $stop    : C:/Development/Verilog/UARTReciever/top.v(46)
+#    Time: 352 ns  Iteration: 0  Instance: /tb_UARTRX
+# Break in Module tb_UARTRX at C:/Development/Verilog/UARTReciever/top.v line 46
+# Load canceled
+restart -f
+# Compile of BaudRateGen.v was successful.
+# Compile of top.v was successful.
+# Compile of UARTRec.v was successful.
+# 3 compiles, 0 failed with no errors.
+run -all
+# ** Note: $stop    : C:/Development/Verilog/UARTReciever/top.v(46)
+#    Time: 352 ns  Iteration: 0  Instance: /tb_UARTRX
+# Break in Module tb_UARTRX at C:/Development/Verilog/UARTReciever/top.v line 46
+# Compile of BaudRateGen.v was successful.
+# Compile of top.v was successful.
+# Compile of UARTRec.v was successful.
+# 3 compiles, 0 failed with no errors.
+# Compile of BaudRateGen.v was successful.
+# Compile of top.v was successful.
+# Compile of UARTRec.v was successful.
+# 3 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_UARTRX
+# Loading work.uartRX
+run -all
+# ** Note: $stop    : C:/Development/Verilog/UARTReciever/top.v(47)
+#    Time: 352 ns  Iteration: 0  Instance: /tb_UARTRX
+# Break in Module tb_UARTRX at C:/Development/Verilog/UARTReciever/top.v line 47
+# Compile of BaudRateGen.v was successful.
+# Compile of top.v was successful.
+# Compile of UARTRec.v was successful.
+# 3 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_UARTRX
+# Loading work.uartRX
+run -all
+# ** Note: $stop    : C:/Development/Verilog/UARTReciever/top.v(47)
+#    Time: 352 ns  Iteration: 0  Instance: /tb_UARTRX
+# Break in Module tb_UARTRX at C:/Development/Verilog/UARTReciever/top.v line 47
+# Compile of BaudRateGen.v was successful.
+# Compile of top.v was successful.
+# Compile of UARTRec.v was successful.
+# 3 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_UARTRX
+# Loading work.uartRX
+run -all
+# ** Note: $stop    : C:/Development/Verilog/UARTReciever/top.v(47)
+#    Time: 352 ns  Iteration: 0  Instance: /tb_UARTRX
+# Break in Module tb_UARTRX at C:/Development/Verilog/UARTReciever/top.v line 47
+# Compile of BaudRateGen.v was successful.
+# Compile of top.v was successful.
+# Compile of UARTRec.v was successful.
+# 3 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_UARTRX
+# Loading work.uartRX
+run -all
+# ** Note: $stop    : C:/Development/Verilog/UARTReciever/top.v(47)
+#    Time: 352 ns  Iteration: 0  Instance: /tb_UARTRX
+# Break in Module tb_UARTRX at C:/Development/Verilog/UARTReciever/top.v line 47
+# Compile of BaudRateGen.v was successful.
+# Compile of top.v was successful.
+# Compile of UARTRec.v was successful.
+# 3 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_UARTRX
+# Loading work.uartRX
+run -all
+# ** Note: $stop    : C:/Development/Verilog/UARTReciever/top.v(47)
+#    Time: 352 ns  Iteration: 0  Instance: /tb_UARTRX
+# Break in Module tb_UARTRX at C:/Development/Verilog/UARTReciever/top.v line 47
+# Compile of BaudRateGen.v was successful.
+# Compile of top.v was successful.
+# Compile of UARTRec.v was successful.
+# 3 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_UARTRX
+# Loading work.uartRX
+run -all
+# ** Note: $stop    : C:/Development/Verilog/UARTReciever/top.v(47)
+#    Time: 352 ns  Iteration: 0  Instance: /tb_UARTRX
+# Break in Module tb_UARTRX at C:/Development/Verilog/UARTReciever/top.v line 47
+# Compile of BaudRateGen.v was successful.
+# Compile of top.v was successful.
+# Compile of UARTRec.v was successful.
+# 3 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_UARTRX
+# Loading work.uartRX
+run -all
+# ** Note: $stop    : C:/Development/Verilog/UARTReciever/top.v(47)
+#    Time: 352 ns  Iteration: 0  Instance: /tb_UARTRX
+# Break in Module tb_UARTRX at C:/Development/Verilog/UARTReciever/top.v line 47
+# Compile of BaudRateGen.v was successful.
+# Compile of top.v was successful.
+# Compile of UARTRec.v was successful.
+# 3 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_UARTRX
+# Loading work.uartRX
+run -all
+# ** Note: $stop    : C:/Development/Verilog/UARTReciever/top.v(47)
+#    Time: 384 ns  Iteration: 0  Instance: /tb_UARTRX
+# Break in Module tb_UARTRX at C:/Development/Verilog/UARTReciever/top.v line 47
+add wave -position insertpoint  \
+sim:/tb_UARTRX/i
+restart -f
+run -all
+# ** Note: $stop    : C:/Development/Verilog/UARTReciever/top.v(47)
+#    Time: 384 ns  Iteration: 0  Instance: /tb_UARTRX
+# Break in Module tb_UARTRX at C:/Development/Verilog/UARTReciever/top.v line 47
+# Compile of BaudRateGen.v was successful.
+# Compile of top.v was successful.
+# Compile of UARTRec.v was successful.
+# 3 compiles, 0 failed with no errors.
+restart -f
+# Loading work.tb_UARTRX
+# Loading work.uartRX
+run -all
+# ** Note: $stop    : C:/Development/Verilog/UARTReciever/top.v(47)
+#    Time: 384 ns  Iteration: 0  Instance: /tb_UARTRX
+# Break in Module tb_UARTRX at C:/Development/Verilog/UARTReciever/top.v line 47
+# Compile of BaudRateGen.v was successful.
+# Compile of top.v was successful.
+# Compile of UARTRec.v was successful.
+# 3 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_UARTRX
+# Loading work.uartRX
+run -all
+# ** Note: $stop    : C:/Development/Verilog/UARTReciever/top.v(47)
+#    Time: 416 ns  Iteration: 0  Instance: /tb_UARTRX
+# Break in Module tb_UARTRX at C:/Development/Verilog/UARTReciever/top.v line 47
+# Compile of BaudRateGen.v was successful.
+# Compile of top.v was successful.
+# Compile of UARTRec.v was successful.
+# 3 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb_UARTRX
+# Loading work.uartRX
+run -all
+# ** Note: $stop    : C:/Development/Verilog/UARTReciever/top.v(47)
+#    Time: 416 ns  Iteration: 0  Instance: /tb_UARTRX
+# Break in Module tb_UARTRX at C:/Development/Verilog/UARTReciever/top.v line 47
